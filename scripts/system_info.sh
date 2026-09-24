@@ -2,4 +2,4 @@
 hostname
 uname -a
 uptime
-df -h /data
+df -h
