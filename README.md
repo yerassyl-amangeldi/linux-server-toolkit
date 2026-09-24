@@ -1,5 +1,5 @@
 # Linux Server Toolkit
-Purpose: scripts for Linux server administration.
+Purpose: Bash scripts for monitoring and backing up Linux servers.
 
 ## Project structure
 scripts/ - admin scripts, docs/ - documentation
