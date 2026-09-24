@@ -1,5 +1,5 @@
 # Linux Server Toolkit
-Purpose: scripts for Linux server administration.
+Purpose: a toolkit of scripts for Linux server administration.
 
 ## Project structure
 scripts/ - admin scripts, docs/ - documentation
